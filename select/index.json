@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Letter",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-04-03T06:56:41.528236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In a Letter To You",
+      "artist": "Eddy Raven",
+      "has_synced": true,
+      "path": "select/01_In_a_Letter_To_You_Eddy_Raven.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Letter to Me",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/02_Letter_to_Me_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "44. Caliber Love Letter",
+      "artist": "Alexisonfire",
+      "has_synced": true,
+      "path": "select/03_44._Caliber_Love_Letter_Alexisonfire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Going To Sit Right Down And Write Myself A Letter",
+      "artist": "Art Tatum",
+      "has_synced": false,
+      "path": "select/04_I'm_Going_To_Sit_Right_Down_And_Write_Myself_A_Letter_Art_Tatum.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Briefwechsel / Letter Exchange",
+      "artist": "Freundeskreis feat. Shurik'n",
+      "has_synced": false,
+      "path": "select/05_Briefwechsel___Letter_Exchange_Freundeskreis_feat._Shurik'n.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Briefwechsel\u0000Letter Exchange",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/06_Briefwechsel\u0000Letter_Exchange_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Battle for Britain (The Letter)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/07_Battle_for_Britain_(The_Letter)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Battle for Britain (The Letter)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Battle_for_Britain_(The_Letter)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Letter to Hermione",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Letter_to_Hermione_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "Yellowman",
+      "has_synced": false,
+      "path": "select/10_Love_Letter_Yellowman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Open Letter",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/11_Open_Letter_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Open Letter",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/12_Open_Letter_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Letter",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/13_Love_Letter_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Letter From Viola",
+      "artist": "The Monochrome Set",
+      "has_synced": true,
+      "path": "select/14_Letter_From_Viola_The_Monochrome_Set.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Letter From An Occupant",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/15_Letter_From_An_Occupant_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Letter",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Letter_04_Limited_Sazabys.txt"
+    }
+  ]
+}
